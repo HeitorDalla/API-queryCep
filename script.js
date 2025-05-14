@@ -88,8 +88,9 @@ function buscarCEP () {
                 return;
             }
         })
-        .catch(() => {
+        .catch((error) => {
             alert("Erro ao consultar o CEP!");
+            console.log(error)
         })
 }
 
