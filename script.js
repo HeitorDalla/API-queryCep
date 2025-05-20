@@ -19,7 +19,7 @@
 //         if (requisicao.status === 200) {
 //             let data = JSON.parse(requisicao.response);
 
-//             if (respostaAPI.erro) {
+//             if (data.erro) {
 //                 alert("CEP não encontrado!");
 //                 document.querySelector("#inserir").value = '';
 //                 return;
