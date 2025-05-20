@@ -10,7 +10,7 @@ Essse projeto foi desenvolvido seguindo as seguintes tecnologias:
 - Axios - Biblioteca para requisições HTTP facilitadas (https://axios-http.com/)
   
 ## Visualização do Projeto
-(https://heitordalla.github.io/API-queryCpf/)
+(https://heitordalla.github.io/API-queryCep/)
 
 ## Funcionalidades
 - Entrada para o usuário digitar um CEP no formato numérico
